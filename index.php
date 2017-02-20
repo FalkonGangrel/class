@@ -1,5 +1,5 @@
 ﻿<?php
 
-echo "Teste <strong>PHP</strong>";
+echo "Teste <strong>PHP</strong> Alteração";
 
 ?>
